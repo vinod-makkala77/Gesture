@@ -19,4 +19,4 @@ This system can be useful for emergency situations (for example, when the phone 
 
 ---
 
-## 🧩 Project Structure
+
